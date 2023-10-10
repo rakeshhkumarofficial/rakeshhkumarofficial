@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">A passionate .NET developer from India</h3>
+<h3 align="center">A Passionate .NET Core Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshhkumarofficial&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshhkumarofficial" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web API**
 
-- 💬 Ask me about **React And .NET **
+- 💬 Ask me about React And .NET Core
 
 - 📫 How to reach me **gpaswan1976@gmail.com**
 
